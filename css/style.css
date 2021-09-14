@@ -357,7 +357,7 @@ pre, code
 }
 
 /* Tablets and under */
-@media(max-width:768px)
+@media(max-width:992px)
 {
    .grid,
    .showcase .grid,
@@ -412,11 +412,11 @@ pre, code
     grid-column: 1;
   }
 
-/* } */
+}
 
 /* Mobile */
-/* @media(max-width:500px)
-{*/
+@media(max-width:768px)
+{
   .navbar
   {
     height:110px;
