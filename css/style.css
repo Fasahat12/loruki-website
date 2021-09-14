@@ -412,11 +412,11 @@ pre, code
     grid-column: 1;
   }
 
-}
+/* } */
 
 /* Mobile */
-@media(max-width:500px)
-{
+/* @media(max-width:500px)
+{*/
   .navbar
   {
     height:110px;
